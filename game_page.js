@@ -1,5 +1,5 @@
 player1_name = localStorage.getItem("Player 1 name");
-player2_name = localStorage.getItem("Player 1 name");
+player2_name = localStorage.getItem("Player 2 name");
 
 player1_score = 0;
 player2_score = 0;
